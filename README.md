@@ -1,4 +1,8 @@
-# Big-Mart-Sales
+# Big-Mart-Sales-Retail
+
+### Category: 
+
+- Retail Industry
 
 ### Overview:
 
