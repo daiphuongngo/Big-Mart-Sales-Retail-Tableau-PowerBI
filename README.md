@@ -56,17 +56,27 @@ OutletSales : (target variable) sales of the product in the particular store
 
 Establishment Year vs Sum Outlet Sales
 
-![Establishment Year vs Sum Outlet Sales](https://user-images.githubusercontent.com/70437668/138643848-76f963f0-7fcf-4080-a801-c9f86a91520d.jpg)
+![Establishment Year vs Sum Outlet Sales](https://user-images.githubusercontent.com/70437668/138645192-a4cad38a-8c62-4a15-a552-8954bc518faf.jpg)
+
+The first Establishment Year experience the highest ever-recorded Total Sum of Outlet Sales at over 3.6 million. Other Establishment Years fluctuated around the Average Total Sum of Outlet Sales at 2,065,861. Only the 1998 saw the lowest Total Sales at 188,340. There might be a significant crisis among the Big Mart or an external factor in this year.
 
 Outlet Size vs Sum Outlet Sales
 
 ![Outlet Size vs Sum Outlet Sales](https://user-images.githubusercontent.com/70437668/138643910-732c921d-026d-4386-a497-c81987dc84ba.jpg)
+
+Medidum-sized Outlets contributed slightly more than half the Total Sum of Outlet Sales. Low and High-sized outlets gained moderately at 32.16% and 15.09%, respectively. This medium size can be aimed to expand other Big Mart's properties. Other sizes can be maintained or expanded at a low extent to guarantee the market domination.
 
 Product Type vs Average Product Visibility
 
 ![Product Type vs Average Product Visibility](https://user-images.githubusercontent.com/70437668/138643919-0390f486-edf5-4d7a-9b55-5a552714ead3.jpg)
 
 Fat Content vs Average Product Visibility
+
+![Fat Content vs Average Product Visibility](https://user-images.githubusercontent.com/70437668/138645426-5f37d6e2-2672-44a6-a693-009797c66814.jpg)
+
+As the 5 groups are duplicated and can be categorized into 2 groups: Regular and Low Fat. I will select the relevant Fate Content and group them together as below.
+
+Fat Content's 2 groups vs Average Product Visibility (revised)
 
 ![Fat Content vs Average Product Visibility](https://user-images.githubusercontent.com/70437668/138643931-cf125f1e-ef6e-4374-96db-a1d85cd8701d.jpg)
 
@@ -116,7 +126,7 @@ Dashboard - Outlet Type
 
 Dashboard - Total Outlet Sales
 
-![Dashboard - Total Outlet Sales](https://user-images.githubusercontent.com/70437668/138644061-a16066db-cf0b-43ca-aaf7-f4935f080894.jpg)
+![Dashboard - Total Outlet Sales](https://user-images.githubusercontent.com/70437668/138645239-022b8d9f-d8aa-404e-98a0-c40df58b2cf3.jpg)
 
 Dashboard - Outlet Type by Average MRP (healthy vs non-healthy)
 
@@ -124,5 +134,5 @@ Dashboard - Outlet Type by Average MRP (healthy vs non-healthy)
 
 Dashboard - Product Type
 
-![Dashboard - Product Type](https://user-images.githubusercontent.com/70437668/138644082-a054e64e-ddb1-45f3-8957-c915f7dc6d63.jpg)
+![Dashboard - Product Type](https://user-images.githubusercontent.com/70437668/138645352-20af30b7-2530-440a-8726-c767d96535f1.jpg)
 
