@@ -70,6 +70,8 @@ Product Type vs Average Product Visibility
 
 ![Product Type vs Average Product Visibility](https://user-images.githubusercontent.com/70437668/138643919-0390f486-edf5-4d7a-9b55-5a552714ead3.jpg)
 
+(Analysis to be continued)
+
 Fat Content vs Average Product Visibility
 
 ![Fat Content vs Average Product Visibility](https://user-images.githubusercontent.com/70437668/138645426-5f37d6e2-2672-44a6-a693-009797c66814.jpg)
