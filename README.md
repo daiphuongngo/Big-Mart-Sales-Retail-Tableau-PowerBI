@@ -2,7 +2,7 @@
 
 ### Category: 
 
-- Retail Industry
+- Retail, Supermarket
 
 ### Overview:
 
