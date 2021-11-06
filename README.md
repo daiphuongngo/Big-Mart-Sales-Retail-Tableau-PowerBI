@@ -52,6 +52,8 @@ OutletSales : (target variable) sales of the product in the particular store
 
 - Tableau
 
+- Power BI
+
 ### Visualization in Tableau:
 
 #### Establishment Year vs Sum Outlet Sales
